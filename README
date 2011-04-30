@@ -1,0 +1,6 @@
+Simple script and required files to sign an update.zip with the test keys often used.
+
+Usage:
+1. cd into directory with script and required files
+2. Run the script with the name of your update.zip file as a parameter, eg. ./signzip.sh infin1ty-1.0.0.zip
+3. Let it finish it's job, your file will now be signed
